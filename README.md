@@ -2,7 +2,7 @@
 
 ** Having good knowledge of POWER BI(DAX), Python,SQL,AWS,AZURE, SNOWFLAKE ,Tableau & Advanced Excel,Power Query Editor **.
 
-Having Advanced understanding of statistical, algebraic and other analytical techniques coupled with various programming languages and highly motivated to learn,grow and excel in Data Science Industry.
+Having Advanced understanding of Data Analysis,Data visualisation , ETL operation, statistical, algebraic and other analytical techniques coupled with various programming languages and highly motivated to learn,grow and excel in Data Science Industry.
 
 Solid understanding of exploratory data analysis using SQL, Advanced Excel ,Power Query Editor & Python language
 
