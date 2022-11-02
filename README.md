@@ -1,6 +1,6 @@
 ### Hi , I'm Sunny Gupta 👋
 
-** Having good knowledge of POWERBI(DAX), Python,SQL,AWS,AZURE, SNOWFLAKE ,Tableau & Advanced Excel,Power Query Editor **.
+** Having good knowledge of POWER BI(DAX), Python,SQL,AWS,AZURE, SNOWFLAKE ,Tableau & Advanced Excel,Power Query Editor **.
 
 Having Advanced understanding of statistical, algebraic and other analytical techniques coupled with various programming languages and highly motivated to learn,grow and excel in Data Science Industry.
 
